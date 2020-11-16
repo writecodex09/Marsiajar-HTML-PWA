@@ -1,0 +1,21 @@
+{
+    "short_name": "Marsiajar",
+    "name": "Online Course Programming",
+    "icons": [{
+            "src": "/images/192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "/images/512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ],
+    "start_url": "/index.html",
+    "background_color": "#fff",
+    "display": "standalone",
+    "scope": "/",
+    "theme_color": "#fff",
+    "orientation": "portrait"
+}

@@ -1,0 +1,141 @@
+:root {
+    --grey-primary: rgb(172, 172, 172);
+    --grey-secondary: rgb(211, 211, 211);
+    --purple: #3823a4;
+}
+
+.grey-color {
+    color: var(--grey-secondary);
+}
+
+.purple-color {
+    color: #2d2d2d;
+}
+
+.btn-cream {
+    background-color: #fac190;
+    color: #4d423b;
+}
+
+.purple-bg {
+    background-color: var(--purple);
+}
+
+.no-border {
+    border: 0;
+}
+
+.text-medium {
+    font-weight: 500;
+}
+
+.product img {
+    width: 100px;
+    height: 100px;
+    float: left;
+    border-radius: 11px;
+    margin-left: 10px;
+}
+
+.product .info {
+    width: 200px;
+    height: 80px;
+    font-size: 24px;
+    margin-left: 10px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.product .info .titleku {
+    font-weight: 500;
+    font-size: 24px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.product .info .titleku1 {
+    font-size: 13px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.product .info .price {
+    font-size: 16px;
+    font-weight: 300;
+    color: var(--grey-primary);
+}
+
+.product .info .rate .material-icons {
+    font-size: 16px;
+}
+
+.header {
+    width: 100%;
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+
+.header .title {
+    color: #000;
+    font-size: 18px;
+    margin-left: 60%;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.header .title1 {
+    margin-top: 23px;
+    color: #000;
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.titlemen {
+    color: #000;
+    font-size: 18px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.title2 {
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.bottom-nav {
+    background: #FFF;
+    -webkit-box-shadow: -2px -3px 15px 0px rgba(0, 0, 0, 0.11);
+    -moz-box-shadow: -2px -3px 15px 0px rgba(0, 0, 0, 0.11);
+    box-shadow: -2px -3px 15px 0px rgba(0, 0, 0, 0.11);
+}
+
+.bottom-nav .menu .material-icons {
+    font-size: 30px;
+    color: #ebebeb;
+}
+
+.bottom-nav .menu .active {
+    color: #f76843;
+}
+
+.mb-6 {
+    margin-bottom: 5rem;
+}
+
+.header-cart .title {
+    color: #2d2d2d;
+    font-size: 28px;
+}
+
+.header-cart .sub {
+    color: #848893;
+    font-weight: 100;
+}
+
+.card-title {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.text-muted {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.card-text {
+    font-family: 'Montserrat', sans-serif;
+}
